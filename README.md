@@ -1,4 +1,5 @@
 # Shreya Kumari — Portfolio
+ A little about me  
 
 A personal portfolio built with Next.js 14, Tailwind CSS, Three.js, and Framer Motion.
 
