@@ -5,14 +5,14 @@ import { Github, ExternalLink, Hammer } from "lucide-react";
 // ── Replace with your actual projects ────────────────────────────
 const projects = [
   {
-    number: "00",
+    number: "01",
     title: "FoodReel — Zomato meets Instagram",
     description: "A mobile app idea I'm actively building — think Zomato for ordering food and navigating restaurants, but with an Instagram-style feed where customers post reels of their food experiences. Reviews become content. Content drives discovery. Restaurants get organic advertising through user-generated reels.",
     what_i_learned: "Currently learning Flutter for the mobile UI, Supabase for the backend and auth, and figuring out how to handle video uploads and feeds at scale. Very early stage — this is me learning and building simultaneously.",
     tech: ["Flutter", "Supabase", "Dart", "PostgreSQL"],
     github: null,
     demo: null,
-    year: "2025 →",
+    year: " June. 2026 →",
     inProgress: true,
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     tech: ["Python", "Scikit-learn", "Streamlit", "Pandas", "Plotly"],
     github: "https://github.com/Shreyakr21/UberDashboard",
     demo: null,
-    year: "2024",
+    year: "2025",
     inProgress: false,
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     tech: ["React.js", "Node.js", "Express.js", "MySQL"],
     github: "https://github.com/Shreyakr21/erp-lite-system",
     demo: null,
-    year: "2022",
+    year: "2025",
     inProgress: false,
   },
 ];
